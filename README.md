@@ -1,4 +1,4 @@
-# xmgmail
+serve# xmgmail
 
 ## Project setup
 ```
